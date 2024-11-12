@@ -18,4 +18,4 @@ Bienvenue dans l'atelier de debug ! Ce projet **WildBlog** est le résultat atte
 4. **Note tes corrections**  
    Garde une trace des erreurs corrigées pour suivre ta progression.
 
-Bon debug ! 🛠️
+Bon debug ! 🛠️# angular-new-wild-blog
